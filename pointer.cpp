@@ -1,3 +1,23 @@
+/*
+Function Description
+
+Complete the update function.
+
+update has the following parameters:
+
+int *a: an integer
+int *b: an integer
+Returns
+
+The function is declared with a void return type, so there is no value to return. 
+Modify the values in memory so that  contains their sum and  contains their absoluted difference.
+
+Input Format
+
+Input will contain two integers,  and , separated by a newline.
+    
+*/
+
 #include <stdio.h>
 #include <cmath>
 
